@@ -18,4 +18,5 @@ This project replicates the basic UI of Amazon's homepage including the header, 
 - **HTML5**  
 - **CSS3**  
 
--
+## here is the live website
+https://risingstar185.github.io/amazonclone/
